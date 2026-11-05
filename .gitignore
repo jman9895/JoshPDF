@@ -1,0 +1,13 @@
+# Build output
+output/
+
+# Bundled qpdf copy (not committed; installer uses winget)
+qpdf/
+
+# Logs and run artifacts
+*.log
+qpdf_failed_*.txt
+
+# Release assets and private reference manuals
+*.exe
+*.docx

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="JoshPDF — A simple Windows interface for qpdf">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#17334b"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/><circle cx="1140" cy="50" r="210" fill="#38bdf8" opacity=".06"/>
+<rect x="64" y="60" width="116" height="148" rx="17" fill="#132b42" stroke="#39738d"/><path d="M91 99h62M91 120h62M91 141h39" stroke="#8dd9ec" stroke-width="7" stroke-linecap="round"/><rect x="121" y="152" width="47" height="40" rx="8" fill="url(#accent)"/><path d="M133 152v-12a13 13 0 0 1 26 0" fill="none" stroke="#2dd4bf" stroke-width="6"/>
+<text x="219" y="132" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="65" font-weight="700">JoshPDF</text>
+<text x="222" y="178" fill="#a8d7e8" font-family="Segoe UI,Arial,sans-serif" font-size="25">A simple Windows interface for qpdf</text>
+<text x="65" y="267" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="24">Choose your PDFs. Remove restrictions. Keep working.</text>
+<rect x="65" y="298" width="1150" height="3" rx="1" fill="url(#accent)"/>
+<text x="65" y="332" fill="#8ba7bb" font-family="Segoe UI,Arial,sans-serif" font-size="16">WINDOWS DESKTOP  /  SINGLE FILE OR BATCH  /  LOCAL PDF PROCESSING</text></svg>
