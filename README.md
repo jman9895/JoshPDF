@@ -12,7 +12,7 @@ A Windows desktop interface for [qpdf](https://github.com/qpdf/qpdf), built with
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.1.1-14b8a6?style=flat-square)
 
-**[Download v1.1.1](https://github.com/jman9895/JoshPDF/releases/tag/v1.1.1)** · **[User guide](docs/USER-GUIDE.md)** · **[Installation](docs/INSTALLATION.md)** · **[Developer notes](docs/DEVELOPMENT.md)**
+**[Releases](https://github.com/jman9895/JoshPDF/releases)** · **[User guide](docs/USER-GUIDE.md)** · **[Installation](docs/INSTALLATION.md)** · **[Developer notes](docs/DEVELOPMENT.md)**
 
 </div>
 
@@ -38,6 +38,8 @@ Select a PDF or a folder, choose where the unlocked copies should go, and click 
 | **One-step Windows setup** | The installer adds shortcuts and attempts to install qpdf through winget. |
 
 ## Get started
+
+**Installer publication is pending.** Source and guides are available now; the v1.1.1 binary will be attached to GitHub Releases.
 
 1. Download **qpdf-gui-setup-1.1.1.exe** from the [release page](https://github.com/jman9895/JoshPDF/releases/tag/v1.1.1).
 2. Run setup with administrator approval. Internet access and winget are needed for automatic qpdf installation.
