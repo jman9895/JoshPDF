@@ -14,4 +14,4 @@ The supplied Windows installer and source identify this version as 1.1.1. Earlie
 - Added project branding, screenshots, installation instructions, and a public README.
 - Reorganized operating notes into user, IT, and developer guides.
 - Documented overwrite, cancellation, password-handling, and dependency-discovery limitations against the source.
-- Published the provided v1.1.1 installer as a release asset, separate from source control.
+- Prepared the provided v1.1.1 installer checksum and release notes; binary attachment is pending.
